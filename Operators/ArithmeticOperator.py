@@ -9,7 +9,7 @@ Addition of a and b is 24
 >>> print("Substraction of a and b is",d)
 Substraction of a and b is 0
 >>> e=a/b
->>> print("Division of a and b is",e)
+>>> print("Multiplication of a and b is",e)
 Multiplication of a and b is 1.0
 >>> f=a*b
 >>> print("Multiplication of a and b is",f)
